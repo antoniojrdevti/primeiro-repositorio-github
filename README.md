@@ -1,2 +1,2 @@
 # primeiro-repositorio-github
-Teste/aprendendo funções 
+Teste/aprendendo funções do git hub
