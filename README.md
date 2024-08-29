@@ -1,2 +1,10 @@
 # primeiro-repositorio-github
-Teste/aprendendo funções do git hub
+
+
+
+informaçoes do GITHUB ---
+
+
+
+
+LINHA 10 
