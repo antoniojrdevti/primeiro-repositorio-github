@@ -1,0 +1,1 @@
+testando sincronização com o git Local .
